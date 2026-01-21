@@ -1,0 +1,2 @@
+# bekobek
+Learning the git
